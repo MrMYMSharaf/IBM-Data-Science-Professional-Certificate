@@ -1,4 +1,3 @@
-```markdown
 # SQL Cheat Sheet: Accessing Databases using Python
 
 ## SQLite
@@ -72,4 +71,4 @@ dropStmt = ibm_db.exec_immediate(conn, dropQuery)
 ``` |
 
 **Author(s):** Abhishek Gagneja, D.M Naidu
-```
+
